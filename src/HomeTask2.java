@@ -18,6 +18,7 @@ public class HomeTask2 {
     public static void main(String[] args) {
         try {
             System.out.println(readFile("journal.txt"));
+            writeInFile("newJournal.txt", readFile("journal.txt"));
         } catch (IOException e) {
             System.out.println("Файл не найден");
             e.getStackTrace();
@@ -57,5 +58,17 @@ public class HomeTask2 {
 //        resString.replace("\"", " ");
 
         return resString;
+    }
+
+    public static void writeInFile (String filename, String input){
+        FileWriter fw = null;
+        try {
+            fw = new FileWriter(filename, false);
+            fw.write(input);
+            fw.close();
+        } catch (IOException e) {
+            e.getStackTrace();
+        }
+
     }
 }
