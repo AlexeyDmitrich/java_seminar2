@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-10T09:11:58</date>
+  <millis>1678428718525</millis>
+  <sequence>0</sequence>
+  <logger>HomeTask1</logger>
+  <level>INFO</level>
+  <class>HomeTask1</class>
+  <method>sortArray</method>
+  <thread>1</thread>
+  <message>Запускаем сортировку</message>
+</record>
+<record>
+  <date>2023-03-10T09:11:58</date>
+  <millis>1678428718567</millis>
+  <sequence>1</sequence>
+  <logger>HomeTask1</logger>
+  <level>WARNING</level>
+  <class>HomeTask1</class>
+  <method>sortArray</method>
+  <thread>1</thread>
+  <message>[2, 4, 3, 1, 6, 5]</message>
+</record>
+<record>
+  <date>2023-03-10T09:11:58</date>
+  <millis>1678428718570</millis>
+  <sequence>2</sequence>
+  <logger>HomeTask1</logger>
+  <level>WARNING</level>
+  <class>HomeTask1</class>
+  <method>sortArray</method>
+  <thread>1</thread>
+  <message>[2, 3, 4, 1, 6, 5]</message>
+</record>
+<record>
+  <date>2023-03-10T09:11:58</date>
+  <millis>1678428718572</millis>
+  <sequence>3</sequence>
+  <logger>HomeTask1</logger>
+  <level>WARNING</level>
+  <class>HomeTask1</class>
+  <method>sortArray</method>
+  <thread>1</thread>
+  <message>[2, 3, 1, 4, 6, 5]</message>
+</record>
+<record>
+  <date>2023-03-10T09:11:58</date>
+  <millis>1678428718573</millis>
+  <sequence>4</sequence>
+  <logger>HomeTask1</logger>
+  <level>WARNING</level>
+  <class>HomeTask1</class>
+  <method>sortArray</method>
+  <thread>1</thread>
+  <message>[2, 3, 1, 4, 6, 5]</message>
+</record>
+<record>
+  <date>2023-03-10T09:11:58</date>
+  <millis>1678428718575</millis>
+  <sequence>5</sequence>
+  <logger>HomeTask1</logger>
+  <level>WARNING</level>
+  <class>HomeTask1</class>
+  <method>sortArray</method>
+  <thread>1</thread>
+  <message>[2, 3, 1, 4, 5, 6]</message>
+</record>
+<record>
+  <date>2023-03-10T09:11:58</date>
+  <millis>1678428718577</millis>
+  <sequence>6</sequence>
+  <logger>HomeTask1</logger>
+  <level>INFO</level>
+  <class>HomeTask1</class>
+  <method>sortArray</method>
+  <thread>1</thread>
+  <message>Запускаем сортировку</message>
+</record>
+<record>
+  <date>2023-03-10T09:11:58</date>
+  <millis>1678428718578</millis>
+  <sequence>7</sequence>
+  <logger>HomeTask1</logger>
+  <level>WARNING</level>
+  <class>HomeTask1</class>
+  <method>sortArray</method>
+  <thread>1</thread>
+  <message>[2, 3, 1, 4, 5, 6]</message>
+</record>
+<record>
+  <date>2023-03-10T09:11:58</date>
+  <millis>1678428718580</millis>
+  <sequence>8</sequence>
+  <logger>HomeTask1</logger>
+  <level>WARNING</level>
+  <class>HomeTask1</class>
+  <method>sortArray</method>
+  <thread>1</thread>
+  <message>[2, 1, 3, 4, 5, 6]</message>
+</record>
+<record>
+  <date>2023-03-10T09:11:58</date>
+  <millis>1678428718582</millis>
+  <sequence>9</sequence>
+  <logger>HomeTask1</logger>
+  <level>WARNING</level>
+  <class>HomeTask1</class>
+  <method>sortArray</method>
+  <thread>1</thread>
+  <message>[2, 1, 3, 4, 5, 6]</message>
+</record>
+<record>
+  <date>2023-03-10T09:11:58</date>
+  <millis>1678428718583</millis>
+  <sequence>10</sequence>
+  <logger>HomeTask1</logger>
+  <level>WARNING</level>
+  <class>HomeTask1</class>
+  <method>sortArray</method>
+  <thread>1</thread>
+  <message>[2, 1, 3, 4, 5, 6]</message>
+</record>
+<record>
+  <date>2023-03-10T09:11:58</date>
+  <millis>1678428718585</millis>
+  <sequence>11</sequence>
+  <logger>HomeTask1</logger>
+  <level>WARNING</level>
+  <class>HomeTask1</class>
+  <method>sortArray</method>
+  <thread>1</thread>
+  <message>[2, 1, 3, 4, 5, 6]</message>
+</record>
+<record>
+  <date>2023-03-10T09:11:58</date>
+  <millis>1678428718586</millis>
+  <sequence>12</sequence>
+  <logger>HomeTask1</logger>
+  <level>INFO</level>
+  <class>HomeTask1</class>
+  <method>sortArray</method>
+  <thread>1</thread>
+  <message>Запускаем сортировку</message>
+</record>
+<record>
+  <date>2023-03-10T09:11:58</date>
+  <millis>1678428718588</millis>
+  <sequence>13</sequence>
+  <logger>HomeTask1</logger>
+  <level>WARNING</level>
+  <class>HomeTask1</class>
+  <method>sortArray</method>
+  <thread>1</thread>
+  <message>[1, 2, 3, 4, 5, 6]</message>
+</record>
+<record>
+  <date>2023-03-10T09:11:58</date>
+  <millis>1678428718589</millis>
+  <sequence>14</sequence>
+  <logger>HomeTask1</logger>
+  <level>WARNING</level>
+  <class>HomeTask1</class>
+  <method>sortArray</method>
+  <thread>1</thread>
+  <message>[1, 2, 3, 4, 5, 6]</message>
+</record>
+<record>
+  <date>2023-03-10T09:11:58</date>
+  <millis>1678428718590</millis>
+  <sequence>15</sequence>
+  <logger>HomeTask1</logger>
+  <level>WARNING</level>
+  <class>HomeTask1</class>
+  <method>sortArray</method>
+  <thread>1</thread>
+  <message>[1, 2, 3, 4, 5, 6]</message>
+</record>
+<record>
+  <date>2023-03-10T09:11:58</date>
+  <millis>1678428718592</millis>
+  <sequence>16</sequence>
+  <logger>HomeTask1</logger>
+  <level>WARNING</level>
+  <class>HomeTask1</class>
+  <method>sortArray</method>
+  <thread>1</thread>
+  <message>[1, 2, 3, 4, 5, 6]</message>
+</record>
+<record>
+  <date>2023-03-10T09:11:58</date>
+  <millis>1678428718593</millis>
+  <sequence>17</sequence>
+  <logger>HomeTask1</logger>
+  <level>WARNING</level>
+  <class>HomeTask1</class>
+  <method>sortArray</method>
+  <thread>1</thread>
+  <message>[1, 2, 3, 4, 5, 6]</message>
+</record>
+<record>
+  <date>2023-03-10T09:11:58</date>
+  <millis>1678428718594</millis>
+  <sequence>18</sequence>
+  <logger>HomeTask1</logger>
+  <level>INFO</level>
+  <class>HomeTask1</class>
+  <method>sortArray</method>
+  <thread>1</thread>
+  <message>Запускаем сортировку</message>
+</record>
+<record>
+  <date>2023-03-10T09:11:58</date>
+  <millis>1678428718596</millis>
+  <sequence>19</sequence>
+  <logger>HomeTask1</logger>
+  <level>WARNING</level>
+  <class>HomeTask1</class>
+  <method>sortArray</method>
+  <thread>1</thread>
+  <message>[1, 2, 3, 4, 5, 6]</message>
+</record>
+<record>
+  <date>2023-03-10T09:11:58</date>
+  <millis>1678428718597</millis>
+  <sequence>20</sequence>
+  <logger>HomeTask1</logger>
+  <level>WARNING</level>
+  <class>HomeTask1</class>
+  <method>sortArray</method>
+  <thread>1</thread>
+  <message>[1, 2, 3, 4, 5, 6]</message>
+</record>
+<record>
+  <date>2023-03-10T09:11:58</date>
+  <millis>1678428718598</millis>
+  <sequence>21</sequence>
+  <logger>HomeTask1</logger>
+  <level>WARNING</level>
+  <class>HomeTask1</class>
+  <method>sortArray</method>
+  <thread>1</thread>
+  <message>[1, 2, 3, 4, 5, 6]</message>
+</record>
+<record>
+  <date>2023-03-10T09:11:58</date>
+  <millis>1678428718599</millis>
+  <sequence>22</sequence>
+  <logger>HomeTask1</logger>
+  <level>WARNING</level>
+  <class>HomeTask1</class>
+  <method>sortArray</method>
+  <thread>1</thread>
+  <message>[1, 2, 3, 4, 5, 6]</message>
+</record>
+<record>
+  <date>2023-03-10T09:11:58</date>
+  <millis>1678428718600</millis>
+  <sequence>23</sequence>
+  <logger>HomeTask1</logger>
+  <level>WARNING</level>
+  <class>HomeTask1</class>
+  <method>sortArray</method>
+  <thread>1</thread>
+  <message>[1, 2, 3, 4, 5, 6]</message>
+</record>
+</log>
