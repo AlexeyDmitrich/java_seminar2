@@ -11,7 +11,7 @@ public class HomeTask1 {
         logger.setLevel(Level.INFO);
         FileHandler ch = new FileHandler ("log.xml");
         logger.addHandler (ch);
-        SimpleFormatter sFormat = new SimpleFormatter ();
+    //    SimpleFormatter sFormat = new SimpleFormatter ();
         XMLFormatter xml = new XMLFormatter();
         ch.setFormatter (xml);
 
