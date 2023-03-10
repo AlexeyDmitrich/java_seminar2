@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f52338b4-f774-4b71-b855-1f4505962a93" name="Changes" comment="task2 and task3 completed">
+    <list default="true" id="f52338b4-f774-4b71-b855-1f4505962a93" name="Changes" comment="task2 and task3 completed&#10;added write result in file in task2">
+      <change afterPath="$PROJECT_DIR$/src/HomeTask4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeTask2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HomeTask2">
+  <component name="RunManager" selected="Application.HomeTask4">
     <configuration name="HomeTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeTask1" />
       <module name="seminar2" />
@@ -62,6 +62,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HomeTask4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeTask4" />
+      <module name="seminar2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task2" />
       <module name="seminar2" />
@@ -71,6 +78,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeTask4" />
         <item itemvalue="Application.HomeTask2" />
         <item itemvalue="Application.HomeTask3" />
         <item itemvalue="Application.HomeTask1" />
@@ -94,12 +102,20 @@
       <option name="project" value="LOCAL" />
       <updated>1678443624889</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="task2 and task3 completed&#10;added write result in file in task2">
+      <created>1678444382877</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678444382877</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task2 and task3 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="task2 and task3 completed" />
+    <MESSAGE value="task2 and task3 completed&#10;added write result in file in task2" />
+    <option name="LAST_COMMIT_MESSAGE" value="task2 and task3 completed&#10;added write result in file in task2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
